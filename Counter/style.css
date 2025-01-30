@@ -1,11 +1,9 @@
-.counter{
-    margin: 0 auto;
+body{
     text-align: center;
 }
 
 #counterlabel{
     display: block;
-    text-align: center;
     font-size: 5em;
 }
 
